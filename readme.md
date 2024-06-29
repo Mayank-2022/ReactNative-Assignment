@@ -93,33 +93,23 @@ Implements the bottom sheet component using `@gorhom/bottom-sheet`.
 
 To add a new screen, create a new file in the `/app/screens` directory and add the necessary navigation configuration in `App.js`.
 
-```jsx
-// Example NewScreen.js
-import React from 'react';
-import { View, Text, StyleSheet } from 'react-native';
 
-const NewScreen = () => {
-  return (
-    <View style={styles.container}>
-      <Text style={styles.text}>New Screen</Text>
-    </View>
-  );
-};
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  text: {
-    fontSize: 20,
-    fontWeight: 'bold',
-  },
-});
+### Screenshots
+Splash Screen
+screenshots/IMG-20240629-WA0011.jpg 
 
-export default NewScreen;
-```
+Home Screen/Settings Screen/Details Screen
+screenshots/IMG-20240629-WA0015.jpg
+screenshots/IMG-20240629-WA0012.jpg
+screenshots/IMG-20240629-WA0014.jpg
+
+Drawer View
+screenshots/IMG-20240629-WA0013.jpg
+
+BottomSheet
+screenshots/IMG-20240629-WA0016.jpg
+
 
 ### Contributing
 
@@ -130,4 +120,3 @@ Feel free to contribute to this or suggest anythings i can do to learn new thing
 This project is licensed under the MIT License.
 
 ---
-
