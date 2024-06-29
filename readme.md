@@ -67,6 +67,7 @@ To get started, fork this repository and follow the steps below to set up and ru
 - **/app/components**: Contains reusable components like `BottomSheet`.
 - buttons and styling is resused across the app.
 - Logo is in file **/Native/logo/logo.png**.
+- there are two logos used.
 
 ### Code Overview
 
