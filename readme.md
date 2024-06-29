@@ -66,6 +66,7 @@ To get started, fork this repository and follow the steps below to set up and ru
 - **/app/screens**: Contains all the screen components (`HomeScreen`, `SettingsScreen`, `DetailsScreen`, `BottomSheetScreen`).
 - **/app/components**: Contains reusable components like `BottomSheet`.
 - buttons and styling is resused across the app.
+- Logo is in file **/Native/logo/logo.png**.
 
 ### Code Overview
 
